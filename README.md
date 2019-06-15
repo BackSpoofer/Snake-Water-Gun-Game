@@ -2,6 +2,6 @@
 This is new AI version of old game
 
 Me -
-      MANOJ KUMAR DAHIYA
+      MANOJ KUMAR DAHIYA ---
         AGE= 18
         
